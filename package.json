@@ -1,0 +1,23 @@
+{
+  "name": "@hamza-28/counter_word",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "HAMZA ABBASI",
+  "license": "MIT",
+  "description": "Countable is a JavaScript library to add live paragraph-, word- and character- counting- to an HTML element",
+  "dependencies": {
+    "inquirer": "^9.2.19"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
